@@ -1,0 +1,6 @@
+[submodule "flights-gui"]
+	path = flights-gui
+	url = https://github.com/flights-team-nine/flights-gui.git
+[submodule "flights-api"]
+	path = flights-api
+	url = https://github.com/flights-team-nine/flights-api.git
